@@ -2,6 +2,8 @@
 
 Kachaka ロボットの Gazebo シミュレーション上でナビゲーション・物体検出を学ぶための自律学習環境です。
 
+このリポジトリは [kazuo-yokoi/kachaka_challenge_trail2026](https://github.com/kazuo-yokoi/kachaka_challenge_trail2026) の作業用フォークです。TRAIL 2026 向け。
+
 ---
 
 ## 目次
